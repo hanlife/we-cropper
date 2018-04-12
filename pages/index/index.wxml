@@ -1,0 +1,1 @@
+<button bindtap="oppen">拍照</button>
